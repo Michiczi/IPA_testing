@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228460697256",
+    "project_id": "morrolingo-test",
+    "storage_bucket": "morrolingo-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228460697256:android:a16a02380bd80657e5d49d",
+        "android_client_info": {
+          "package_name": "com.example.morrolingo_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmYW-1Zc0cpOh8JGzssi9nkj5UpMVxjAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
